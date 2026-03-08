@@ -7,6 +7,7 @@ public class ArrayListDemo1
 {
 	public static void main(String[] args) 
 	{
+		
 		System.out.println("ArrayListDemo1.main()");
 		
 		ArrayList<String> listOfFruit = new ArrayList<String>();

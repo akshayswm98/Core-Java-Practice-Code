@@ -6,6 +6,7 @@ public class EnumDemo1 {
 
 	public static void main(String[] args) 
 	{
+		System.out.println("EnumDemo1.main()");
 		enum month //we can write enum inside the method also 
 		{
 			january,february,march;
