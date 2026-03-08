@@ -2,7 +2,8 @@ package akshay.enumclass;
 /*group of name constant if you represent then we should be use enum class.
  * purpose of enum declare our data type.*/
 
-public class EnumDemo1 {
+public class EnumDemo1 
+{
 
 	public static void main(String[] args) 
 	{
