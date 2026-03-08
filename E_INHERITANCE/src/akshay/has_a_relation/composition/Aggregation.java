@@ -51,6 +51,8 @@ public class Aggregation
 
 	public static void main(String[] args)
 	{
+		System.out.println("Aggregation.main()");
+		
 		College clg = new College("SMT", "MANORA");
 		Student std = new Student(101, "Akshay", clg);//Aggregation
 		System.out.println(std);
