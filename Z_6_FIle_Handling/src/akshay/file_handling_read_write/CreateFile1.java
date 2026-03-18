@@ -31,7 +31,7 @@ public class CreateFile1
 		catch(IOException e)
 		{
 			System.out.println("Exception Handle....!");
-			System.out.println("my first");
+			
 		}
 	}	
 	
