@@ -9,7 +9,7 @@ class Animels
 {
 	public void sleep()
 	{
-		System.out.println("Animels.sleep()");
+	
 		System.out.println("Generic Animel Is Sleeping");
 	}
 }
