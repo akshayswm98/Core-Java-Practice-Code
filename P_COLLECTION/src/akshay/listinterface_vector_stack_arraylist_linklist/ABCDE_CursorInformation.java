@@ -42,7 +42,7 @@ public class ABCDE_CursorInformation {}
  ex:- Iterator i = nameOfCity.Iterator();
  
  Method Of Iterator:-
- ======================
+ ====================
  
  1) hasNext():-
  * it will verify the elements is available or not if available return boolean value.
