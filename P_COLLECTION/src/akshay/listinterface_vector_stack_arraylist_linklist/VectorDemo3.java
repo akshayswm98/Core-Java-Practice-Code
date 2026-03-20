@@ -19,6 +19,8 @@ public class VectorDemo3
 			v1.add("Mumbai");
 			v1.add("Washim");
 			
+			
+			System.out.println("print vector using different 11 various way.");
 			System.out.println(" 1.By using to string method");
 			System.out.println(v1.toString());
 			
@@ -35,6 +37,7 @@ public class VectorDemo3
 			{
 				System.out.println(city);
 			}
+			
 			
 			System.out.println("--------------------------------------------");
 			System.out.println("4.by using Enumeration Interface");
