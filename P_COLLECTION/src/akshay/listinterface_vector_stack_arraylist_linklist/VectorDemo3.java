@@ -21,7 +21,7 @@ public class VectorDemo3
 			
 			
 			System.out.println("print vector using different 11 various way.");
-			System.out.println(" 1.By using to string method");
+			System.out.println(" 1.By using toString method");
 			System.out.println(v1.toString());
 			
 			System.out.println("-------------------------------------------");
