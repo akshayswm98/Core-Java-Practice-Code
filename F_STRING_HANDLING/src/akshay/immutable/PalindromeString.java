@@ -10,6 +10,7 @@ public class PalindromeString
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Name :- ");
 		String name = sc.nextLine().toUpperCase();
+		
 		int s = name.length();
 		System.out.println("My String Name Is:- "+name);
 		System.out.println("My string Lenth Is :- "+s);
