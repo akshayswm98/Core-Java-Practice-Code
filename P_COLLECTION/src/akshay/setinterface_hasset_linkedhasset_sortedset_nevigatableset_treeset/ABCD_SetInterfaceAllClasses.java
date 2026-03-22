@@ -15,7 +15,7 @@ public class ABCD_SetInterfaceAllClasses {
 	 * set<E> are use all the method are collection<E> interface, 
 	   few more method are added from JDK 9v.
 	 * Set Interface is non synchronize.
-	 * set interface is not follow sorting orders 
+	 * set interface is not follow sorting order.
 	   
 	                      set(I)1.2v.
 	 HashSet<E>(c)1.2v                      SortedSet(i)1.2v 
