@@ -152,13 +152,4 @@ This repository is useful for:
 
 ---
 
-# 👨‍💻 Author
 
-**Akshay Patil**
-
-💼 Java Developer
-🌐 GitHub: https://github.com/yourusername
-
----
-
-⭐ If you find this repository useful, please **give it a star on GitHub!**
