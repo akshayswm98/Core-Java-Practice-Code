@@ -80,9 +80,13 @@ public class LinkedListCRUDOperationDemo8
                 int search = Integer.parseInt(sc.nextLine());
 
                 if(list.contains(search))
-                    System.out.println(search + " Found In List.");
+                {
+                	System.out.println(search + " Found In List.");
+                }
                 else
-                    System.err.println(search + " Not Found.");
+                {
+                	System.err.println(search + " Not Found.");
+                }
                 break;
 
             case 5: // Display
