@@ -1,4 +1,4 @@
-package akshay.queinterface;
+package akshay.setinterface_hasset_linkedhasset_sortedset_nevigatableset_treeset;
 public class ABCDE_CursorInformation {}
 /*
  * Generally cursor we can use for fetch the elements one by one 
