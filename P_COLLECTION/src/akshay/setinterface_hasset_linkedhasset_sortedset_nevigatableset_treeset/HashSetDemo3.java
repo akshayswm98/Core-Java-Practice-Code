@@ -3,7 +3,7 @@ package akshay.setinterface_hasset_linkedhasset_sortedset_nevigatableset_treeset
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class HashSetiDemo3 
+public class HashSetDemo3 
 {
 	public static void main(String[] args) 
 	{
