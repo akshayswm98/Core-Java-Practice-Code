@@ -2,7 +2,7 @@ package akshay.setinterface_hasset_linkedhasset_sortedset_nevigatableset_treeset
 
 import java.util.HashSet;
 
-public class HasSetDemo1 
+public class HashSetDemo1 
 {
 	public static void main(String[] args) 
 	{
