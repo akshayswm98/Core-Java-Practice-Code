@@ -33,7 +33,7 @@ public class ABCD_SetInterfaceAllClasses {
 	 * The elements are inserted base on the hash code.
 	 * Default capacity is 16.
 	 * Methods are not synchronize so thread are not secure.
-	 * It is mainly used of to search elements of large amount of data. 
+	 * It is mainly used for to search elements of large amount of data. 
 	 
 	  
 	 Constructor:-
