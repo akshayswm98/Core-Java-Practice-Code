@@ -2,9 +2,9 @@ package akshay.setinterface_hasset_linkedhasset_sortedset_nevigatableset_treeset
 
 import java.util.TreeSet;
 
-public class TreeSetDemo1 
+public class TreeSetDemo2 
 {
-	public static void main(String[] args) 
+	private void maian() 
 	{
 		TreeSet ts = new TreeSet();
 		ts.add(40);
@@ -12,7 +12,10 @@ public class TreeSetDemo1
 		ts.add(20);
 		ts.add(10);
 		ts.add(50);
+		ts.add(40);
+		ts.add(20);
+		ts.add(null);
 		System.out.println(ts);
-	}
+	} 
 }
-/*It is follow sorting Order But not follow insertion order.*/
+/*It Is not accepted duplicate elements and single null value also.*/

@@ -2,7 +2,7 @@ package akshay.setinterface_hasset_linkedhasset_sortedset_nevigatableset_treeset
 
 import java.util.TreeSet;
 
-public class TreeSetDemo1 
+public class TreeSetDemo3 
 {
 	public static void main(String[] args) 
 	{
@@ -12,7 +12,10 @@ public class TreeSetDemo1
 		ts.add(20);
 		ts.add(10);
 		ts.add(50);
+		ts.add("Akshay");
+		ts.add("patil");
 		System.out.println(ts);
 	}
 }
-/*It is follow sorting Order But not follow insertion order.*/
+
+/*we can store only homogeneous elements. otherwise RE*/
