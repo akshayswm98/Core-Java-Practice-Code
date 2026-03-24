@@ -61,7 +61,8 @@ public class ABCD_SetInterfaceAllClasses {
 	  * It is not follow the index base data structure.
 	  * It is follow sorting order But not follow insertion order.
 	  * It will stored only homogeneous element.(same data type).
-	  * It is non synchronize data structure.  
+	  * It is non synchronize data structure.
+	  * The purpose of TreeSet it will sorting elements internally.  
 	  
 	 */
 	
