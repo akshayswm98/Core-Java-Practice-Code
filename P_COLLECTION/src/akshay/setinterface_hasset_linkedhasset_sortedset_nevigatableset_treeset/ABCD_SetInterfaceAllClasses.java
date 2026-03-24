@@ -3,8 +3,8 @@ package akshay.setinterface_hasset_linkedhasset_sortedset_nevigatableset_treeset
 public class ABCD_SetInterfaceAllClasses {
 	
 	/*
-	 Set<E>interface:-[UNORDER,UNSORTED,NO DUPLICATES]
-	 ===============
+	 2) Set<E>interface:-[UNORDER,UNSORTED,NO DUPLICATES]
+	 ====================
 	 * Set is implemented Interface from collection interface.
 	 * set interface available in java.util package from JDK 1.2v.
 	 * set interface does not follow indexing technique, 
@@ -49,6 +49,20 @@ public class ABCD_SetInterfaceAllClasses {
 	 
 	 4)  HashSet<E> hs = new HashSet(Collection c):-
 	 * Interconversion of collection
+	 
+=============================================================================================================================	  
+	  
+	  2) TreeSet<E>:-
+	  ===============
+	  * It is directly implemented class from navigable interface and, 
+	    indirectly implemented from set and sorted set interface.
+	  * TreeSet Available in java.util package which is introduce from JDK 1.2v.
+	  * It is not accept duplicate element,and null value also.
+	  * It is not follow the index base data structure.
+	  * It is follow sorting order But not follow insertion order.
+	  * It will stored only homogeneous element.(same data type).
+	  * It is non synchronize data structure.  
+	  
 	 */
 	
 	
