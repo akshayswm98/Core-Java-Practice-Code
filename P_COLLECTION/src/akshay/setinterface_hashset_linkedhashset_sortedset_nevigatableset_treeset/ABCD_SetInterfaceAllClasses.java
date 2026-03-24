@@ -14,7 +14,7 @@ public class ABCD_SetInterfaceAllClasses {
 	 * set<E> are use all the method are collection<E> interface, 
 	   few more method are added from JDK 9v.
 	 * Set Interface is non synchronize.
-	 * set interface is not follow sorting order.
+	
 	   
 	                      set(I)1.2v.
 	 HashSet<E>(c)1.2v                      SortedSet(i)1.2v 
@@ -57,7 +57,7 @@ public class ABCD_SetInterfaceAllClasses {
 	  * It is directly implemented class from navigable interface and, 
 	    indirectly implemented from set and sorted set interface.
 	  * TreeSet Available in java.util package which is introduce from JDK 1.2v.
-	  * It is not accept duplicate element,and null value also.
+	  * It is not accept duplicate element,and single null value also.
 	  * It is not follow the index base data structure.
 	  * It is follow sorting order But not follow insertion order.
 	  * It will stored only homogeneous element.(same data type).
