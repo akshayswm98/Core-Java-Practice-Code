@@ -26,8 +26,8 @@ public class ABCD_SetInterfaceAllClasses {
 	 1) HashSet <E>:-
 	 ================
 	 * It is implemented class from set interface available in JDK 1.2v.
-	 * It does not accept duplicates multiple null values.
-	 * It  can accept homogeneous and heterogeneous value and one null value.
+	 * It does not accept duplicates and multiple null values.
+	 * It  can accept "homogeneous and heterogeneous" value and one null value.
 	 * It is un_order and un_sorted set.
 	 * It is use hash table data structure.
 	 * The elements are inserted base on the hash code.
