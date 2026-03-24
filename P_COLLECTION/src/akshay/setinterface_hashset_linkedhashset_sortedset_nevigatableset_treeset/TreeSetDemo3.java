@@ -1,4 +1,4 @@
-package akshay.setinterface_hasset_linkedhasset_sortedset_nevigatableset_treeset;
+package akshay.setinterface_hashset_linkedhashset_sortedset_nevigatableset_treeset;
 
 import java.util.TreeSet;
 
