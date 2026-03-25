@@ -54,6 +54,8 @@ public class ABCD_SetInterfaceAllClasses {
 	  
 	  2) TreeSet<E>:-
 	  ===============
+	  * If we want to represent value in some sorting order then we should
+	    go for what "SortedSet Interface".
 	  * It is directly implemented class from navigable interface and, 
 	    indirectly implemented from set and sorted set interface.
 	  * TreeSet Available in java.util package which is introduce from JDK 1.2v.
