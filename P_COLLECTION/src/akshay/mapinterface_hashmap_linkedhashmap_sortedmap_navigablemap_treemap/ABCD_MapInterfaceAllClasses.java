@@ -5,6 +5,8 @@ public class ABCD_MapInterfaceAllClasses {
 	/*
 	 3) Map<k,v> interface :-
 	 ======================
+	 * If you want to represent group of object in the form of key and value
+	   then we will use Map interface. 
 	 * It is a separate interface, It does not any concern with collection<E> interface.
 	 * It is not support any method of collection interface.
 	 * It is mainly use to work with group of object (key and value).
