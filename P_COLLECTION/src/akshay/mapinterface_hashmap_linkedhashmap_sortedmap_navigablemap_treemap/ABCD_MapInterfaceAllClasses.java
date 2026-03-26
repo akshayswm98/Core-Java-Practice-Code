@@ -84,7 +84,7 @@ public class ABCD_MapInterfaceAllClasses {
 	* It is an implemented class from map<k,v> interface available from JDK 1.2v
 	* It does not accept duplicate key but can accept duplicate value.
 	* It can accept homogeneous and heterogeneous value. 
-	* It can accept only null key and multiple null value.
+	* It can accept only one null key and multiple null value.
 	* It is an un-sorted and un-order map.
 	* It is use hash table data structure.
 	* The entry will be inserted based on the hashCode() of the key object.
