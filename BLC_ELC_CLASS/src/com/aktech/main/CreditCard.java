@@ -2,6 +2,10 @@ package com.aktech.main;
 
 import java.util.Scanner;
 
+import com.aktech.cardtype.CardOnOffer;
+import com.aktech.cardtype.CardType;
+import com.aktech.customer.Customer;
+
 public class CreditCard 
 {
 

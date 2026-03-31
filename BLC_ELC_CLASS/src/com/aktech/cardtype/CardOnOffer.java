@@ -1,5 +1,7 @@
 package com.aktech.cardtype;
 
+import com.aktech.customer.Customer;
+
 public class CardOnOffer 
 {
 	public static CardType getOfferCard(Customer obj)

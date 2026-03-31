@@ -1,5 +1,7 @@
 package com.aktech.cardtype;
 
+import com.aktech.customer.Customer;
+
 public class CardType 
 {
 	private Customer customer;

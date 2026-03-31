@@ -1,4 +1,4 @@
-package com.aktech.main;
+package com.aktech.customer;
 
 public class Customer
 {
