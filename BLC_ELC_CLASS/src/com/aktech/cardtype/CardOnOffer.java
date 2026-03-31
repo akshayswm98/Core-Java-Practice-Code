@@ -4,7 +4,7 @@ import com.aktech.customer.Customer;
 
 public class CardOnOffer 
 {
-	public static CardType getOfferCard(Customer obj)
+	public static CardType getOfferCard(Customer obj) //has-a-relation constructor.
 	{
 		int creditPoint = obj.getCreditPoints();
 		if(creditPoint >=100 && creditPoint <=500)
