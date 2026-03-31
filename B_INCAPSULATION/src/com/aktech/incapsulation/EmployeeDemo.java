@@ -1,4 +1,4 @@
-package akshay.updatesallary;
+package com.aktech.incapsulation;
 // Declared All Class variable with private access modifier (Data hiding)
 //write getter and setter public method to update data at runtime
 // is a tight encapsulation 
