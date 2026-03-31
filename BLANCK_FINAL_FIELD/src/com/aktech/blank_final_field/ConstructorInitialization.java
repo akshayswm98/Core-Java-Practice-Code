@@ -1,4 +1,4 @@
-package com.aktech.blankfinalfield;
+package blankfinalfield;
 
 class Employee
 {
