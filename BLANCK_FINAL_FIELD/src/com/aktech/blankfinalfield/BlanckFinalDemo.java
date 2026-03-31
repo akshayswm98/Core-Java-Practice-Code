@@ -1,4 +1,4 @@
-package blankfinalfield;
+package com.aktech.blankfinalfield;
 /* Instance Non static variable declare with final keyword
    and at time of declaration is not be initialize then it is called as blank final field.
    
