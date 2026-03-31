@@ -1,4 +1,4 @@
-package akshay.java_8_features;
+package com.aktech.interface_8_features;
 /*whenever we declare interface and adding abstract method.
  * those method use compulsory inside implemented class. so developer 
  * find complexity thats why java introduce 8 feature.

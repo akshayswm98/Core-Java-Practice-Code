@@ -1,4 +1,4 @@
-package akshay.java_8_features;
+package com.aktech.interface_8_features;
 /*Static method also feature of java 8v*/
 
 interface Calculator
