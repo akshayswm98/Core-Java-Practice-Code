@@ -1,4 +1,4 @@
-package blankfinalfield;
+package com.aktech.blank_final_field;
 
 class Employee
 {
