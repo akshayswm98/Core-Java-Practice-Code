@@ -1,4 +1,4 @@
-package com.aktech.blec_elc;
+package com.aktech.cardtype;
 
 public class CardOnOffer 
 {

@@ -1,4 +1,4 @@
-package com.aktech.blec_elc;
+package com.aktech.main;
 
 import java.util.Scanner;
 
