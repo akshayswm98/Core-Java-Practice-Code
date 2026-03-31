@@ -1,4 +1,4 @@
-package akshay.blcelc;
+package com.aktech.blc_elc;
 
 public class CardOnOffer 
 {
