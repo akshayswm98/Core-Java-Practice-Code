@@ -1,4 +1,4 @@
-package factorymethod;
+package com.aktech.factoty_method;
 
 /* those method whose return type is class , interface that means from method we can 
    return the object then it is called static

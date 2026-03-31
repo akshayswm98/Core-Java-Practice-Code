@@ -1,4 +1,4 @@
-package factorymethod;
+package com.aktech.factoty_method;
 
 import java.util.Scanner;
 
