@@ -1,4 +1,4 @@
-package com.aktech.functionalinterface.types;
+package com.aktech.finctionelinterface_type;
 
 import java.util.Scanner;
 import java.util.function.Predicate;

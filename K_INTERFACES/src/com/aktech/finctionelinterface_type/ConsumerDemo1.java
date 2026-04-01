@@ -1,4 +1,4 @@
-package com.aktech.functionalinterface.types;
+package com.aktech.finctionelinterface_type;
 /*It has one abstract method Accept() which takes T as a parameter and return noting.
  * It is use to Accept and consume values.(Only for storing purpose)*/
 

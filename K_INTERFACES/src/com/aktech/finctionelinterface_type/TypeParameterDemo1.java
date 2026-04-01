@@ -1,4 +1,4 @@
-package com.aktech.functionalinterface.types;
+package com.aktech.finctionelinterface_type;
 /*Type parameter is only deals with wrapper class.
  * Actually it is generic concept.
  * we can declare object type at the time of compilation.

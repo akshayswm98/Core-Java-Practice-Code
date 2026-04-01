@@ -1,4 +1,4 @@
-package com.aktech.functionalinterface.types;
+package com.aktech.finctionelinterface_type;
 //Verify my name is virat or not
 
 import java.util.Scanner;
